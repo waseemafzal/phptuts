@@ -16,11 +16,16 @@ $VAR and $var are two diffrent variables
 /*
 predefined variables in PHP
 The PHP superglobal variables are:
-$_REQUEST
+
 $_POST
 $_GET
+$_REQUEST
+
+DB CONNECTION 
+CRUD
 
 $_SESSION
+
 $GLOBALS
 $_SERVER
 $_COOKIE
