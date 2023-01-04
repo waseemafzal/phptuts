@@ -12,7 +12,7 @@ if(isset($_POST['btnUpdate'])){
 	if($result){
 		header("Location:view.php");
 		}else{
-			header("Location:view.php");
+			header("Location:edit.php");
 			}
 	}
 ?>
