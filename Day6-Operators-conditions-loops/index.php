@@ -32,7 +32,7 @@ do {
 
 $arr = array("name"=>'waseem', "email"=>"was@gmail.com", "phone"=>"321251211");
 $arr1 = array("name"=>'waseem', "email"=>"was@gmail.com", "phone"=>"321251211");
-$res=$arr+$arr1;
+$res= $arr+$arr1;
 foreach ($res as $row) {
  print_r($row);
 }
